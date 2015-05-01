@@ -1,7 +1,7 @@
 # ksl-scraper
 A scraper that sends you an email everytime a new listing has been put up.
 
-#Setup Instructions for Raspberry Pi
+###Setup Instructions for Raspberry Pi
 
 sudo apt-get install postfix
 
